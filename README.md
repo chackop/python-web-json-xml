@@ -1,2 +1,2 @@
 # python-web-json-xml
- Python Web JSON XML Parse
+ JSON XML Web parsing using python
